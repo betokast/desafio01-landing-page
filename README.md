@@ -1,4 +1,4 @@
-# desafio01-landing-page
+# Desafio 01 - Resolução
 Primeiro desafio do curso Desenvolvedor Front-End da Escola DNC
 
 Link do site disponibilizado: https://dnc-roberto-landing-page.netlify.app <br>
